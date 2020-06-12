@@ -1,0 +1,84 @@
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.exe
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.deps.json
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.runtimeconfig.json
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.runtimeconfig.dev.json
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.pdb
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.csprojAssemblyReference.cache
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.AssemblyInfoInputs.cache
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.AssemblyInfo.cs
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.RazorTargetAssemblyInfo.cache
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.csproj.CopyComplete
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\staticwebassets\BackendFerreteria.StaticWebAssets.Manifest.cache
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\staticwebassets\BackendFerreteria.StaticWebAssets.xml
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.dll
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.pdb
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.genruntimeconfig.cache
+D:\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.xml
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.xml
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.csproj.CoreCompileInputs.cache
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.MvcApplicationPartsAssemblyInfo.cs
+D:\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.MvcApplicationPartsAssemblyInfo.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\appsettings.json
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.exe
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.deps.json
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.runtimeconfig.json
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.runtimeconfig.dev.json
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.pdb
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BackendFerreteria.xml
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.csprojAssemblyReference.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.AssemblyInfoInputs.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.AssemblyInfo.cs
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.csproj.CoreCompileInputs.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.MvcApplicationPartsAssemblyInfo.cs
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.MvcApplicationPartsAssemblyInfo.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.RazorTargetAssemblyInfo.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.csproj.CopyComplete
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\staticwebassets\BackendFerreteria.StaticWebAssets.Manifest.cache
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\staticwebassets\BackendFerreteria.StaticWebAssets.xml
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.dll
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.xml
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.pdb
+G:\DOCUMENTOS\CURSO\LimaLab Challange\Evaluacion\BackendFerreteria\obj\Debug\netcoreapp3.1\BackendFerreteria.genruntimeconfig.cache

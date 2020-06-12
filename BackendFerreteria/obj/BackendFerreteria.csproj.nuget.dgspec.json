@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\DOCUMENTOS\\CURSO\\LimaLab Challange\\Evaluacion\\BackendFerreteria\\BackendFerreteria.csproj": {}
+  },
+  "projects": {
+    "G:\\DOCUMENTOS\\CURSO\\LimaLab Challange\\Evaluacion\\BackendFerreteria\\BackendFerreteria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DOCUMENTOS\\CURSO\\LimaLab Challange\\Evaluacion\\BackendFerreteria\\BackendFerreteria.csproj",
+        "projectName": "BackendFerreteria",
+        "projectPath": "G:\\DOCUMENTOS\\CURSO\\LimaLab Challange\\Evaluacion\\BackendFerreteria\\BackendFerreteria.csproj",
+        "packagesPath": "C:\\Users\\German Manuel\\.nuget\\packages\\",
+        "outputPath": "G:\\DOCUMENTOS\\CURSO\\LimaLab Challange\\Evaluacion\\BackendFerreteria\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\German Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendFerreteria</name>
+    </assembly>
+    <members>
+        <member name="M:BackendFerreteria.Controllers.CategoriaController.Get">
+            <summary>
+            Obtenemos todas las categorías.
+            </summary>
+            <returns>Coleccion de categorías.</returns>
+            <remarks>Metodo no requiere parametros</remarks>
+            <response code="200">Si la operación es exitosa se listan las categorías.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.CategoriaController.Complete(BackendFerreteria.Entity.Categoria)">
+            <summary>
+            Guardar nueva categoría.
+            </summary>
+            <returns>Retorna mensaje con condición de la operación.</returns>
+            <remarks>Metodo requiere registro de categoría</remarks>
+            <response code="200">Si la operación es exitosa retorna mensaje Ok.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.Get">
+            <summary>
+            Obtenemos todas las categorías.
+            </summary>
+            <returns>Coleccion de categorías.</returns>
+            <remarks>Metodo no requiere parametros</remarks>
+            <response code="200">Si la operación es exitosa se listan las categorías.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.GetId(System.Int32)">
+            <summary>
+            Obtenemos todas las categorías.
+            </summary>
+            <returns>Coleccion de categorías.</returns>
+            <remarks>Metodo no requiere parametros</remarks>
+            <response code="200">Si la operación es exitosa se listan las categorías.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.GetNombre(System.String)">
+            <summary>
+            Obtenemos todas las categorías.
+            </summary>
+            <returns>Coleccion de categorías.</returns>
+            <remarks>Metodo no requiere parametros</remarks>
+            <response code="200">Si la operación es exitosa se listan las categorías.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.GetCodigo(System.String)">
+            <summary>
+            Obtenemos todas las categorías.
+            </summary>
+            <returns>Coleccion de categorías.</returns>
+            <remarks>Metodo no requiere parametros</remarks>
+            <response code="200">Si la operación es exitosa se listan las categorías.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.Save(BackendFerreteria.Entity.Producto)">
+            <summary>
+            Guardar nueva categoría.
+            </summary>
+            <returns>Retorna mensaje con condición de la operación.</returns>
+            <remarks>Metodo requiere registro de categoría</remarks>
+            <response code="200">Si la operación es exitosa retorna mensaje Ok.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.Update(BackendFerreteria.Entity.Producto)">
+            <summary>
+            Guardar nueva categoría.
+            </summary>
+            <returns>Retorna mensaje con condición de la operación.</returns>
+            <remarks>Metodo requiere registro de categoría</remarks>
+            <response code="200">Si la operación es exitosa retorna mensaje Ok.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.Delete(BackendFerreteria.Entity.Producto)">
+            <summary>
+            Guardar nueva categoría.
+            </summary>
+            <returns>Retorna mensaje con condición de la operación.</returns>
+            <remarks>Metodo requiere registro de categoría</remarks>
+            <response code="200">Si la operación es exitosa retorna mensaje Ok.</response>
+        </member>
+        <member name="M:BackendFerreteria.Controllers.ProductoController.GetCodigo">
+            <summary>
+            Obtenemos todas las categorías.
+            </summary>
+            <returns>Coleccion de categorías.</returns>
+            <remarks>Metodo no requiere parametros</remarks>
+            <response code="200">Si la operación es exitosa se listan las categorías.</response>
+        </member>
+    </members>
+</doc>
